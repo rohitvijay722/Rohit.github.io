@@ -1,0 +1,45 @@
+body{
+    font-family: 'Andika';
+    background-image:url("background (5).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  .mysec{
+    display: flex;
+    flex-direction: row;
+    margin:auto;
+  }
+  .p1{
+    color: grey;
+    font-size: 20px;
+  }
+  .maintech{
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+  }
+  .maintech2{
+    margin-left: 20px;
+  }
+  .cvtech{
+    color: chocolate;
+  }
+  .ulnav{
+    display: flex;
+    flex-direction: row;
+    margin-left: 70%;
+  }
+  .linav{
+    list-style-type: none;
+    padding-left: 3%;
+  }
+  a{
+    text-decoration: none;
+  }
+
+  .one{
+    word-spacing: 3px;
+    font-size: 25px;
+  }
+  
